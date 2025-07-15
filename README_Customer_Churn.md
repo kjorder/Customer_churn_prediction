@@ -105,6 +105,6 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Created by **Kamol aka** – Junior Data Scientist  
-📧 Email: kamol.ds@gmail.com  
+Created by **Kamoliddin** – Junior Data Scientist  
+📧 Email: kamoliddinxamidullayev91@gmail.com  
 🔗 GitHub: [kjorder](https://github.com/kjorder)
